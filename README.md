@@ -1,5 +1,3 @@
-# Write_Courses
-
 ## Data Analysis with Python
 
 Welcome to this repository, where I accumulate materials that I'm the author of theirs. These courses are for students wishing to master data analysis. 
